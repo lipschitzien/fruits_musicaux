@@ -7,4 +7,4 @@ L’idée est qu’il y a des fruits qui tombent au rythme de la musique et l’
 
 vidéo: https://drive.google.com/drive/folders/1Jl7bDqR7o5cYg3yVNyWm0OgokQuUOh1Y?usp=drive_link
 
-J'ai aussi déposé un petit programme pour créer les mélodies facilement comme on veut.
+J'ai aussi crée un petit programme pour créer les mélodies facilement comme on veut.
