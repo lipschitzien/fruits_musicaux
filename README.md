@@ -1,5 +1,7 @@
 # fruits_musicaux
 
+vidéos: https://youtu.be/iaGwemRrFRw
+
 Introduction:
 Dans le but de mettre en pratique les concepts en Java tels que les interfaces, les threads et les interactions, j’ai développé un petit jeu appelé FruitsMusicaux.
 
@@ -7,4 +9,3 @@ Ce jeu en FPS60 offre une expérience ludique où les fruits tombent en suivant 
 
 De plus, j’ai également créé un programme simple permettant de générer facilement différentes mélodies.
 
-vidéo: https://youtu.be/iaGwemRrFRw
