@@ -1,10 +1,10 @@
 # fruits_musicaux
 
 Introduction:
-Pour appliquer et lier les classes et les techniques qu’on a appris dans le cours, j'ai crée une application en Java. 
-C'est un petit jeu qui s’appelle FruitsMusicaux. C'est un jeu en FPS60.
-L’idée est qu’il y a des fruits qui tombent au rythme de la musique et l’utilisateur peut jouer cette musique par rattraper les fruits correctement.
+Dans le but de mettre en pratique les concepts en Java tels que les interfaces, les threads et les interactions, j’ai développé un petit jeu appelé FruitsMusicaux.
 
-vidéo: https://drive.google.com/drive/folders/1Jl7bDqR7o5cYg3yVNyWm0OgokQuUOh1Y?usp=drive_link
+Ce jeu en FPS60 offre une expérience ludique où les fruits tombent en suivant le rythme de la musique, et le joueur peut jouer cette musique en attrapant les fruits de manière correcte.
 
-J'ai aussi crée un petit programme pour créer les mélodies facilement comme on veut.
+De plus, j’ai également créé un programme simple permettant de générer facilement différentes mélodies.
+
+vidéo: https://youtu.be/iaGwemRrFRw
